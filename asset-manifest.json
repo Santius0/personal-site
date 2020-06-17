@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.699da05f.chunk.css",
-    "main.js": "/static/js/main.ab3a54c4.chunk.js",
-    "main.js.map": "/static/js/main.ab3a54c4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19dc59e6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19dc59e6.js.map",
-    "static/css/2.8ff17cee.chunk.css": "/static/css/2.8ff17cee.chunk.css",
-    "static/js/2.d61cc4d5.chunk.js": "/static/js/2.d61cc4d5.chunk.js",
-    "static/js/2.d61cc4d5.chunk.js.map": "/static/js/2.d61cc4d5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7d973e87830f05912b93022a52c8d4a4.js": "/precache-manifest.7d973e87830f05912b93022a52c8d4a4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.8ff17cee.chunk.css.map": "/static/css/2.8ff17cee.chunk.css.map",
-    "static/css/main.699da05f.chunk.css.map": "/static/css/main.699da05f.chunk.css.map",
-    "static/js/2.d61cc4d5.chunk.js.LICENSE.txt": "/static/js/2.d61cc4d5.chunk.js.LICENSE.txt",
-    "static/media/about.md": "/static/media/about.44663f8b.md",
-    "static/media/me_icon.jpg": "/static/media/me_icon.9c2fea80.jpg"
+    "main.css": "/santius0.github.io/static/css/main.699da05f.chunk.css",
+    "main.js": "/santius0.github.io/static/js/main.e9f3d4bf.chunk.js",
+    "main.js.map": "/santius0.github.io/static/js/main.e9f3d4bf.chunk.js.map",
+    "runtime-main.js": "/santius0.github.io/static/js/runtime-main.8911e27a.js",
+    "runtime-main.js.map": "/santius0.github.io/static/js/runtime-main.8911e27a.js.map",
+    "static/css/2.8ff17cee.chunk.css": "/santius0.github.io/static/css/2.8ff17cee.chunk.css",
+    "static/js/2.219587a8.chunk.js": "/santius0.github.io/static/js/2.219587a8.chunk.js",
+    "static/js/2.219587a8.chunk.js.map": "/santius0.github.io/static/js/2.219587a8.chunk.js.map",
+    "index.html": "/santius0.github.io/index.html",
+    "precache-manifest.1892ac4d9e187bd691899ce97588a1ab.js": "/santius0.github.io/precache-manifest.1892ac4d9e187bd691899ce97588a1ab.js",
+    "service-worker.js": "/santius0.github.io/service-worker.js",
+    "static/css/2.8ff17cee.chunk.css.map": "/santius0.github.io/static/css/2.8ff17cee.chunk.css.map",
+    "static/css/main.699da05f.chunk.css.map": "/santius0.github.io/static/css/main.699da05f.chunk.css.map",
+    "static/js/2.219587a8.chunk.js.LICENSE.txt": "/santius0.github.io/static/js/2.219587a8.chunk.js.LICENSE.txt",
+    "static/media/about.md": "/santius0.github.io/static/media/about.44663f8b.md",
+    "static/media/me_icon.jpg": "/santius0.github.io/static/media/me_icon.9c2fea80.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19dc59e6.js",
+    "static/js/runtime-main.8911e27a.js",
     "static/css/2.8ff17cee.chunk.css",
-    "static/js/2.d61cc4d5.chunk.js",
+    "static/js/2.219587a8.chunk.js",
     "static/css/main.699da05f.chunk.css",
-    "static/js/main.ab3a54c4.chunk.js"
+    "static/js/main.e9f3d4bf.chunk.js"
   ]
 }
