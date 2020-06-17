@@ -4,22 +4,22 @@ const routes = [
         label: 'Sergio Mathurin',
         index: true,
     },
-    {
-        path: '/about',
-        label: 'About',
-    },
+    // {
+    //     path: '/about',
+    //     label: 'About',
+    // },
     {
         path: '/resume',
         label: 'Resume',
     },
-    {
-        path: '/projects',
-        label: 'Projects',
-    },
-    {
-        path: '/stats',
-        label: 'Stats',
-    },
+    // {
+    //     path: '/projects',
+    //     label: 'Projects',
+    // },
+    // {
+    //     path: '/stats',
+    //     label: 'Stats',
+    // },
     {
         path: '/contact',
         label: 'Contact',

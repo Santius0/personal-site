@@ -5,7 +5,7 @@ class Job extends Component {
         return(
             <article className="jobs-container">
                 <header>
-                    <h4><a href={this.props.data.link}>{this.props.data.company}</a> - {this.props.position}</h4>
+                    <h4><a href={this.props.data.link}>{this.props.data.company} </a> - {this.props.data.position}</h4>
                     <p className="daterange"> {this.props.data.daterange}</p>
                 </header>
                 <ul className="points">
