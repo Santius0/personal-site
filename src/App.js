@@ -32,6 +32,7 @@ class App extends Component {
                     <GlobalStyle/>
                     <BrowserRouter>
                         <Switch>
+                          <Route exact path="/personal-site" component={ResumePage} />
                           <Route exact path="/" component={ResumePage} />
                           {/*<Route exact path="/" component={BlogPage} />*/}
                           {/*<Route exact path="/" component={IndexPage} />*/}
